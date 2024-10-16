@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/miguelsantoscoelhoduarte/netflix-portfolio/static/css/main.f855e6bc.css",
-    "main.js": "/miguelsantoscoelhoduarte/netflix-portfolio/static/js/main.0756fe50.js",
-    "static/js/453.b0cd7502.chunk.js": "/miguelsantoscoelhoduarte/netflix-portfolio/static/js/453.b0cd7502.chunk.js",
-    "static/media/logo.svg": "/miguelsantoscoelhoduarte/netflix-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/miguelsantoscoelhoduarte/netflix-portfolio/index.html",
-    "main.f855e6bc.css.map": "/miguelsantoscoelhoduarte/netflix-portfolio/static/css/main.f855e6bc.css.map",
-    "main.0756fe50.js.map": "/miguelsantoscoelhoduarte/netflix-portfolio/static/js/main.0756fe50.js.map",
-    "453.b0cd7502.chunk.js.map": "/miguelsantoscoelhoduarte/netflix-portfolio/static/js/453.b0cd7502.chunk.js.map"
+    "main.css": "/netflix-portfolio/static/css/main.f855e6bc.css",
+    "main.js": "/netflix-portfolio/static/js/main.807dba7c.js",
+    "static/js/453.b0cd7502.chunk.js": "/netflix-portfolio/static/js/453.b0cd7502.chunk.js",
+    "static/media/logo.svg": "/netflix-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/netflix-portfolio/index.html",
+    "main.f855e6bc.css.map": "/netflix-portfolio/static/css/main.f855e6bc.css.map",
+    "main.807dba7c.js.map": "/netflix-portfolio/static/js/main.807dba7c.js.map",
+    "453.b0cd7502.chunk.js.map": "/netflix-portfolio/static/js/453.b0cd7502.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.0756fe50.js"
+    "static/js/main.807dba7c.js"
   ]
 }
